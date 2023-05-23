@@ -7,7 +7,11 @@ Atualmente, estou envolvido em diversos projetos na faculdade, enfrentando desaf
 
 <div style="display: inline_block">
   <img align="center" alt="Erick-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+          
 </div>
+
+
 
 
 
