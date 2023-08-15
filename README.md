@@ -5,7 +5,7 @@ Em 2021, concluí meu ensino médio na Fundação Bradesco e logo ingressei na F
 Atualmente, estou envolvido em diversos projetos na faculdade, enfrentando desafios variados na área de programação. Além disso, estou participando de um projeto em parceria com a empresa B3, por meio da FIAP. Estou animado em aplicar meus conhecimentos teóricos e práticos para contribuir com o sucesso desse projeto.
 
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,java,py,react,styledcomponents)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,java,py,react,mysql)](https://skillicons.dev)
          
   
           
