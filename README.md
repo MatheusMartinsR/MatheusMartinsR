@@ -7,6 +7,7 @@ I'm 19 years old, from São Paulo and currently seeking internship opportunities
 🗃️ 2023 Goals:
 
 -👔 Become a junior developer.
+
 -🎒 Keep studying to learn and improve my back-end skills.
 
 🖥️ Technologies:
