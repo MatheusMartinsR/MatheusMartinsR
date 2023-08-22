@@ -1,8 +1,15 @@
-Meu nome é Matheus, tenho 19 anos e sou apaixonado pelo mundo da tecnologia. Além disso, tenho um grande interesse na língua inglesa e estou sempre buscando aprimorar meus conhecimentos nessa área. Já tive experiência como professor particular de inglês, o que me permitiu desenvolver ainda mais minhas habilidades nesse idioma.
+👨🏻‍💻 About me:
+I'm 19 years old, from São Paulo and currently seeking internship opportunities in the technology field. 
 
-Em 2021, concluí meu ensino médio na Fundação Bradesco e logo ingressei na FIAP com o objetivo de aprofundar meus conhecimentos em programação, com foco em desenvolvimento back-end. Tenho experiência em linguagens como Java, Python, HTML, CSS, JavaScript, SQL Oracle, Watson AI e REACT.   
-
-Atualmente, estou explorando oportunidades para aplicar meus conhecimentos teóricos e práticos em projetos desafiadores e inovadores na área de tecnologia. Minha paixão pelo desenvolvimento back-end e minha habilidade em linguagens como Java, Python, HTML, CSS, JavaScript, SQL Oracle, Watson AI e REACT continuam a me impulsionar em busca de novos desafios e maneiras de contribuir para o avanço tecnológico. Além disso, estou sempre aberto a novas experiências que me permitam crescer e me destacar no mundo da tecnologia.
+🌱 I’m currently studying and improving my skills in typescript, PL/SQL and JAVA.
+👯 Student at FIAP and Alura.
+📫 How to reach me: martinsmatheusrh08@gmail.com
+🗃️ 2023 Goals:
+💻 Start my studies in front-end development.
+👔 Become a junior developer.
+🎒 Keep studying to learn and improve my back-end skills.
+🖥️ Technologies:
+These are some of the technologies and tools I use:
 
 Front-end
 
