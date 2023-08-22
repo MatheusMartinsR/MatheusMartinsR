@@ -2,8 +2,11 @@
 I'm 19 years old, from São Paulo and currently seeking internship opportunities in the technology field. 
 
 -🌱 I’m currently studying and improving my skills in typescript, PL/SQL and JAVA.
+
 -👯 Student at FIAP and Alura.
+
 -📫 How to reach me: martinsmatheusrh08@gmail.com
+
 🗃️ 2023 Goals:
 
 -👔 Become a junior developer.
