@@ -23,11 +23,11 @@ Front-end
 
 Back-end
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=java,py,mysql)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=java,js,flask,py,mysql)](https://skillicons.dev)
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,androidstudio,eclipse,figma,flask,vscode,)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,androidstudio,eclipse,figma,vscode,)](https://skillicons.dev)
            
   
           
