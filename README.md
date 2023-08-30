@@ -27,7 +27,7 @@ Back-end
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,androidstudio,eclipse,figma,vscode,)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,androidstudio,azure,idea,eclipse,figma,vscode,)](https://skillicons.dev)
            
   
           
