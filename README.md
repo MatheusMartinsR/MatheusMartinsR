@@ -23,7 +23,7 @@ Front-end
 
 Back-end
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=java,js,ts,py,nestjs,mysql,postgres)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=java,js,ts,py,mysql,postgres)](https://skillicons.dev)
 
 - Tools and Plataforms
 
