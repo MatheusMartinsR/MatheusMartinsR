@@ -26,7 +26,8 @@ Back-end
 [![Minhas Habilidades](https://skillicons.dev/icons?i=java,js,ts,py,nodejs)](https://skillicons.dev)
 
 - Database
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 
 - Tools and Plataforms
 
