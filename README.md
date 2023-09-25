@@ -17,11 +17,16 @@ I'm 20 years old, from São Paulo and currently seeking internship opportunities
 🖥️ Technologies:
 These are some of the technologies and tools I use:
 
-Front-end
+- Tools and Plataforms
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,androidstudio,azure,idea,eclipse,figma,vscode,postman)](https://skillicons.dev)
+
+
+- Front-end
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents)](https://skillicons.dev)
 
-Back-end
+- Back-end
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=java,js,ts,py,nodejs)](https://skillicons.dev)
 
@@ -29,9 +34,7 @@ Back-end
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 
-- Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,androidstudio,azure,idea,eclipse,figma,vscode,postman)](https://skillicons.dev)
            
   
           
