@@ -34,6 +34,10 @@ These are some of the technologies and tools I use:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 
+ <a href="https://github.com/MatheusMartinsR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&langs_count=6&theme=tokyonight"/>
+
 
            
   
