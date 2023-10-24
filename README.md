@@ -19,7 +19,7 @@ These are some of the technologies and tools I use:
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,androidstudio,azure,idea,eclipse,figma,vscode,postman)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,androidstudio,azure,idea,eclipse,figma,vscode,postman,docker)](https://skillicons.dev)
 
 
 - Front-end
