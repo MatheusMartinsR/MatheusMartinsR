@@ -35,6 +35,13 @@ These are some of the technologies and tools I use:
 [![Minhas Habilidades](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
 
+### 📈 My Statistics
+
+| My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=MatheusMartinsR&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMartinsR&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+
+
 
  
 
