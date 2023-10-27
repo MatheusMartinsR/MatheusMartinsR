@@ -11,7 +11,7 @@
 
 
 
-###👨🏻‍💻 About me:
+### 👨🏻‍💻 About me:
 
 I'm 20 years old, from São Paulo and currently seeking internship opportunities in the technology field. 
 
