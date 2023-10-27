@@ -21,13 +21,13 @@ I'm 20 years old, from São Paulo and currently seeking internship opportunities
 
 -📫 How to reach me: martinsmatheusrh08@gmail.com
 
-###🗃️ 2023 Goals:
+### 🗃️ 2023 Goals:
 
 -👔 Become a junior developer.
 
 -🎒 Keep studying to learn and improve my back-end skills.
 
-###🖥️ Technologies:
+### 🖥️ Technologies:
 These are some of the technologies and tools I use:
 
 - Tools and Plataforms
