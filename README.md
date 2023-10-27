@@ -15,7 +15,7 @@
 
 I'm 20 years old, from São Paulo and currently seeking internship opportunities in the technology field. 
 
--🌱 I’m currently studying and improving my skills in JavaScript, Nest.js and JAVA.
+-🌱 I’m currently studying and improving my skills in TypeScript, Nest.js and JAVA.
 
 -👯 Student at FIAP and Alura.
 
