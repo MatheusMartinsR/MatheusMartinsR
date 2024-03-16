@@ -32,7 +32,7 @@ These are some of the technologies and tools I use:
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,androidstudio,azure,idea,eclipse,figma,vscode,postman,docker)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,azure,idea,eclipse,figma,vscode,postman,docker)](https://skillicons.dev)
 
 
 - Front-end
