@@ -41,7 +41,7 @@ These are some of the technologies and tools I use:
 
 - Back-end
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=java,hibernate,js,ts,py,nodejs,express,prisma,django)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=java,hibernate,js,ts,py,prisma,django)](https://skillicons.dev)
 
 - Database
 
