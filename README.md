@@ -15,17 +15,15 @@
 
 I'm 21 years old, from São Paulo and currently i'am working as a software developer at Scicrop. 
 
--🌱 I’m currently studying and improving my skills in Django.
-
--👯 Student at FIAP and Alura.
+-🌱 I’m currently studying and improving my skills in Django and Java.
 
 -📫 How to reach me: martinsmatheusrh08@gmail.com
 
-### 🗃️ 2024 Goals:
+### 🗃️ 2025 Goals:
 
--👔 Become a junior developer.
+-👔 Become a full stack developer.
 
--🎒 Keep studying to learn and improve my back-end skills.
+-🎒 Keep studying to learn and improve my full stack skills.
 
 ### 🖥️ Technologies:
 These are some of the technologies and tools I use:
