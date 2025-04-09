@@ -30,7 +30,7 @@ These are some of the technologies and tools I use:
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,azure,idea,eclipse,figma,vscode,postman,docker,neovim)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,azure,idea,eclipse,vscode,postman,docker,neovim)](https://skillicons.dev)
 
 
 - Front-end
@@ -39,7 +39,7 @@ These are some of the technologies and tools I use:
 
 - Back-end
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=java,spring,hibernate,js,ts,py,prisma,django)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=java,spring,hibernate,js,ts,py,django)](https://skillicons.dev)
 
 - Database
 
