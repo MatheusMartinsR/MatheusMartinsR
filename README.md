@@ -21,9 +21,9 @@ I'm 21 years old, from São Paulo and currently i'am working as a software devel
 
 ### 🗃️ 2025 Goals:
 
--👔 Become a full stack developer.
+-👔 Become a backend developer.
 
--🎒 Keep studying to learn and improve my full stack skills.
+-🎒 Keep studying to learn and improve my backend skills using java and python.
 
 ### 🖥️ Technologies:
 These are some of the technologies and tools I use:
