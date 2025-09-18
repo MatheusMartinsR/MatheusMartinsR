@@ -13,7 +13,7 @@
 
 ### 👨🏻‍💻 About me:
 
-I'm 21 years old, from São Paulo and currently i'am working as a software developer at Scicrop. 
+I'm 22 years old, from São Paulo and currently i'am working as a software developer at Scicrop. 
 
 -🌱 I’m currently studying and improving my skills in Django and Java.
 
