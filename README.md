@@ -35,7 +35,7 @@ These are some of the technologies and tools I use:
 
 - Front-end
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 - Back-end
 
@@ -44,7 +44,7 @@ These are some of the technologies and tools I use:
 - Database
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+
 
 ### 📈 My Statistics
 
