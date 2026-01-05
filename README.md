@@ -19,7 +19,7 @@ I'm 22 years old, from São Paulo and currently i'am working as a software devel
 
 -📫 How to reach me: martinsmatheusrh08@gmail.com
 
-### 🗃️ 2025 Goals:
+### 🗃️ Main Goals:
 
 -👔 Become a java backend developer.
 
