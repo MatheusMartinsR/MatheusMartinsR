@@ -13,29 +13,25 @@
 
 ### 👨🏻‍💻 About me:
 
-I'm 22 years old, from São Paulo and currently i'am working as a software developer at Scicrop. 
+I'm 22 years old, from São Paulo and currently i'am working as a Software Engineer at Avanade. 
 
--🌱 I’m currently studying and improving my skills in Django and Java.
+-🌱 I’m currently studying and improving my skills in Java.
 
 -📫 How to reach me: martinsmatheusrh08@gmail.com
 
 ### 🗃️ Main Goals:
 
--👔 Become a java backend developer.
+-👔 Become a sênior java backend developer.
 
--🎒 Keep studying to learn and improve my backend skills using java and python.
+-🎒 Keep studying to learn and improve my backend skills using java.
 
 ### 🖥️ Technologies:
 These are some of the technologies and tools I use:
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,azure,idea,eclipse,vscode,postman,aws,docker,rabbitmq,jenkins,linux,neovim)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,azure,idea,eclipse,vscode,postman,aws,azure,docker,rabbitmq,kafka,kubernetes,jenkins,linux,neovim)](https://skillicons.dev)
 
-
-- Front-end
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 - Back-end
 
